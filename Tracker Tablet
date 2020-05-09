@@ -1,0 +1,613 @@
+Tracker Tablet
+
+#Dateimanager+ - - 
+#Google Ads
+31com.google.android.gms.ads.mediation.
+
+#Google Firebase Analytics
+11com.google.android.gms.measurement.
+8com.google.firebase.analytics.
+
+#µ?Google-Ads Consent
+17com.google.ads.consent
+
+#Dateimanager Huawei - - 
+
+#Baidu Location
+174com.baidu.location
+
+#Baidu Map
+334com.baidu.mapapi
+
+#GoogleDrive - - 
+#Google Analytics
+5com.google.android.gms.analytics.
+
+#Mozilla Firefox - - 
+#Adjust
+41com.adjust.sdk.
+
+#LeanPlum
+262com.leanplum.
+
+#Mozilla Telemetry
+38org.mozilla.gecko.telemetry
+
+#Google Foto - - 
+#Google Firebase Analytics
+9com.google.android.gms.measurement.
+2com.google.firebase.analytics.
+
+#Google Galarie - - 
+#Google Tag Manager
+65com.google.android.gms.tagmanager
+
+
+#Google Mail - - 
+#Google Analytics
+1com.google.android.gms.analytics.
+
+#Google Searchbox - - 
+#Google Analytics
+#Google Firebase Analytics
+
+#Google Analytics
+94com.google.android.gms.analytics.
+
+#Google Firebase Analytics
+395com.google.android.gms.measurement.
+8com.google.firebase.analytics.
+
+#Google News - - 
+
+#Google Ads
+58com.google.android.gms.ads.mediation.
+
+#Google Analytics
+112com.google.android.gms.analytics.
+
+#Google DoubleClick
+10com.google.android.gms.ads.doubleclick
+
+#Google Firebase Analytics
+393com.google.android.gms.measurement.
+9com.google.firebase.analytics.
+
+#Google Bücher - - - 
+#Google Analytics
+1com.google.android.gms.analytics.
+
+#Google Firebase Analytics
+16com.google.android.gms.measurement.
+2com.google.firebase.analytics.
+
+
+#Google Play Filme - - 
+
+#Google Firebase Analytics
+1com.google.firebase.analytics.
+
+
+#Google Play Musik - - 
+#Google Ads
+26com.google.android.gms.ads.mediation.
+
+#Google Analytics
+111com.google.android.gms.analytics.
+
+#Google DoubleClick
+8com.google.android.gms.ads.doubleclick
+
+#Google Tag Manager
+191com.google.android.gms.tagmanager
+
+
+#Google Play Spiele - - 
+#Google Firebase Analytics
+3com.google.android.gms.measurement.
+2com.google.firebase.analytics.
+
+
+#Google Play Store - - 
+
+#Google Ads
+1com.google.android.gms.ads.mediation.
+
+#Google Firebase Analytics
+16com.google.android.gms.measurement.
+2com.google.firebase.analytics.
+
+#Supermarkt tycoon - - 
+#AdColony
+334com.adcolony
+
+#AppLovin
+642com.applovin
+
+#AppsFlyer
+98com.appsflyer.
+
+#ChartBoost
+161com.chartboost.sdk.
+
+#Facebook Ads
+155com.facebook.ads
+
+#Facebook Analytics
+110com.facebook.appevents
+
+#Facebook Login
+56com.facebook.login
+
+#Facebook Share
+197com.facebook.share
+
+#Fyber
+539com.fyber.
+
+#GameAnalytics
+76com.gameanalytics.sdk
+
+#Google Ads
+55com.google.android.gms.ads.mediation.
+
+#Google CrashLytics
+208com.crashlytics.
+214io.fabric.
+
+#Google DoubleClick
+10com.google.android.gms.ads.doubleclick
+
+#Google Firebase Analytics
+12com.google.android.gms.measurement.
+
+#HyprMX
+412com.hyprmx.android.sdk.
+
+#Inmobi
+581com.inmobi
+
+#ironSource
+632com.ironsource.
+
+#Mintegral
+707com.mintegral.
+
+#Moat
+265com.moat.analytics.mobile.
+
+#Tapjoy
+604com.tapjoy.
+
+#Unity3d Ads
+15com.unity3d.ads
+379com.unity3d.services
+
+
+#Phone Service Huawei - - 
+#Baidu Location
+96com.baidu.location
+
+#Baidu Map
+356com.baidu.mapapi
+
+#Google Analytics
+47com.google.android.gms.analytics.
+
+#Google Tag Manager
+196com.google.android.gms.tagmanager
+
+#Huawei Video - - 
+#Facebook Analytics
+107com.facebook.appevents
+
+#Facebook Login
+56com.facebook.login
+
+#Facebook Share
+197com.facebook.share
+
+#Google Ads
+29com.google.android.gms.ads.mediation.
+
+#Google Analytics
+47com.google.android.gms.analytics.
+
+#Google DoubleClick
+8com.google.android.gms.ads.doubleclick
+
+#Google Tag Manager
+196com.google.android.gms.tagmanager
+
+
+#Google Maps - -
+#Google Firebase Analytics
+9com.google.android.gms.measurement.
+2com.google.firebase.analytics.
+
+#Google RAR Programm - - 
+55com.google.android.gms.ads.mediation.
+
+#Google DoubleClick
+10com.google.android.gms.ads.doubleclick
+
+#Google Firebase Analytics
+12com.google.android.gms.measurement.
+
+#Google-Ads Consent
+17com.google.ads.consent
+
+
+#Google RaspController - - 
+
+#Google Ads
+43com.google.android.gms.ads.mediation.
+
+#Google CrashLytics
+2com.crashlytics.
+10io.fabric.
+
+#Google DoubleClick
+4com.google.android.gms.ads.doubleclick
+
+#Google Firebase Analytics
+314com.google.android.gms.measurement.
+10com.google.firebase.analytics.
+
+# Google Read Programm - - 
+
+#Facebook Ads
+691com.facebook.ads
+
+#Flurry
+1011com.flurry.
+
+#Google Ads
+32com.google.android.gms.ads.mediation.
+
+#Google CrashLytics
+212com.crashlytics.
+149io.fabric.
+
+#Google DoubleClick
+8com.google.android.gms.ads.doubleclick
+
+#Google Firebase Analytics
+12com.google.android.gms.measurement.
+9com.google.firebase.analytics.
+
+#Google SwiftKey Tastatur - - 
+#Adjust
+112com.adjust.sdk.
+
+#Google Analytics
+5com.google.android.gms.analytics.
+
+#Google Tag Manager
+3com.google.android.gms.tagmanager
+
+#Microsoft Appcenter Crashes
+9com.microsoft.appcenter.crashes
+
+
+#Google TV Programm - - 
+
+#Google Ads
+32com.google.android.gms.ads.mediation.
+
+#Google DoubleClick
+8com.google.android.gms.ads.doubleclick
+
+#INFOnline
+135de.infonline.
+
+#Google Vu+Player - -
+#Google Ads
+18com.google.android.gms.ads.mediation.
+
+#Google Analytics
+90com.google.android.gms.analytics.
+
+#Google DoubleClick
+8com.google.android.gms.ads.doubleclick
+
+#Google Tag Manager
+201com.google.android.gms.tagmanager
+
+#ACRA
+56org.acra.
+
+#Google YouTube
+#Google Firebase Analytics
+9com.google.android.gms.measurement.
+2com.google.firebase.analytics.
+
+#Trainer
+Facebook Ads
+µ?Google-Ads Consent
+Google DoubleClick
+Google Ads
+Google Firebase Analytics
+myTarget
+
+#Facebook Ads
+129com.facebook.ads
+
+#Google Ads
+53com.google.android.gms.ads.mediation.
+
+#Google CrashLytics
+4com.crashlytics.
+
+#Google DoubleClick
+5com.google.android.gms.ads.doubleclick
+
+#Google Firebase Analytics
+313com.google.android.gms.measurement.
+5com.google.firebase.analytics.
+
+#myTarget
+534com.my.target.
+
+#µ?Google-Ads Consent
+17com.google.ads.consent
+
+#Amazon - - 
+
+#Amazon Advertisement
+573com.amazon.device.ads
+
+Amazon Advertisement
+°AWS Kinesis
+Amazon Analytics
+Bugsnag
+Metrics
+Google CrashLytics
+
+#Amazon Alexa - - 
+162com.amazon.device.ads
+
+#Amazon Analytics
+84com.amazonaws.mobileconnectors.amazonmobileanalytics
+
+#Bugsnag
+136com.bugsnag.
+
+#Google CrashLytics
+225com.crashlytics.
+191io.fabric.
+
+#Metrics
+51com.codahale.metrics
+
+#°AWS Kinesis
+26com.amazonaws.metrics.
+
+Amazon Musik - - 
+
+#Amazon Advertisement
+541com.amazon.device.ads
+
+#Google CrashLytics
+183com.crashlytics.
+155io.fabric.
+
+#Localytics
+24com.localytics.android.
+
+#AWS Kinesis
+
+#Aurora - - 
+
+#µ?ACRA
+24org.acra.
+
+13com.amazonaws.metrics.
+
+
+#Bitpanda - - 
+
+#Google Analytics
+44com.google.android.gms.analytics.
+
+#Google CrashLytics
+185com.crashlytics.
+154io.fabric.
+
+#Google Firebase Analytics
+308com.google.android.gms.measurement.
+23com.google.firebase.analytics.
+
+#Google Tag Manager
+33com.google.android.gms.tagmanager
+
+#Pusher
+51com.pusher.client.
+
+#Btv - - 
+#Dynatrace
+6com.dynatrace.android.app.
+
+
+#BTV - - 
+
+#Google Firebase Analytics
+2com.google.firebase.analytics.
+
+#µ?Custom Activity On Crash
+24cat.ereza.customactivityoncrash
+
+
+#Digitales Amt - - 
+
+#Google Firebase Analytics
+5com.google.firebase.analytics.
+
+#Edge - - 
+#Adjust
+159com.adjust.sdk.
+
+#Braze (formerly Appboy)
+159com.appboy
+
+#Google Firebase Analytics
+3com.google.firebase.analytics.
+
+#Microsoft Appcenter Crashes
+9com.microsoft.appcenter.crashes
+
+
+#Droid - - 
+
+#µ?ACRA
+136org.acra.
+
+#Fair-Mail - - 
+#Bugsnag
+100com.bugsnag.
+
+
+#Firefox - - 
+#Adjust
+41com.adjust.sdk.
+
+#LeanPlum
+262com.leanplum.
+
+#Mozilla Telemetry 
+38org.mozilla.gecko.telemetry
+
+
+#Handysignatur - - 
+#Google Firebase Analytics
+328com.google.android.gms.measurement.
+23com.google.firebase.analytics.
+
+#Mintos - - 
+#Google CrashLytics
+1com.crashlytics.
+
+#Google Firebase Analytics
+12com.google.android.gms.measurement.
+2com.google.firebase.analytics.
+
+#N26 - - 
+#Adjust
+142com.adjust.sdk.
+
+#Google Analytics
+47com.google.android.gms.analytics.
+
+#Google CrashLytics
+175com.crashlytics.
+156io.fabric.
+
+#Google Firebase Analytics
+308com.google.android.gms.measurement.
+23com.google.firebase.analytics.
+
+#Google Tag Manager
+192com.google.android.gms.tagmanager
+
+#Snowplow
+84com.snowplowanalytics.
+
+#NewPipe - - 
+
+#µ?ACRA
+143org.acra.
+
+#Onvista - - 
+#Google Ads
+55com.google.android.gms.ads.mediation.
+
+#Google Analytics
+44com.google.android.gms.analytics.
+
+#Google CrashLytics
+213com.crashlytics.
+
+#Google DoubleClick
+10com.google.android.gms.ads.doubleclick
+
+#Google Firebase Analytics
+330com.google.android.gms.measurement.
+23com.google.firebase.analytics.
+
+#Google Tag Manager
+33com.google.android.gms.tagmanager
+
+
+#Read - - 
+
+#Facebook Ads
+153com.facebook.ads
+
+#Flurry
+511com.flurry.
+
+#Google Ads
+55com.google.android.gms.ads.mediation.
+
+#Google DoubleClick
+10com.google.android.gms.ads.doubleclick
+
+#Google Firebase Analytics
+344com.google.android.gms.measurement.
+2com.google.firebase.analytics.
+
+#Smartlife - - 
+#Facebook Analytics
+131com.facebook.appevents
+
+#Facebook Login
+93com.facebook.login
+
+#Facebook Share
+197com.facebook.share
+
+#Google Firebase Analytics
+3com.google.firebase.analytics.
+
+#Sonos - - 
+
+#Google CrashLytics
+225com.crashlytics.
+191io.fabric.
+
+#Google Firebase Analytics
+5com.google.firebase.analytics.
+
+#Optimizely
+237com.optimizely.
+
+#Urbanairship
+868com.urbanairship
+
+#Twitter - - 
+#Google Firebase Analytics
+326com.google.android.gms.measurement.
+9com.google.firebase.analytics.
+
+#Metrics
+102com.codahale.metrics
+
+#Valida - - 
+#Google Firebase Analytics
+5com.google.firebase.analytics.
+
+
+#Word - - 
+
+#Google Firebase Analytics
+174com.google.android.gms.measurement.
+7com.google.firebase.analytics.
+
+#HockeyApp
+103net.hockeyapp.
+
+#YouTube - - 
+#Google Firebase Analytics
+8com.google.android.gms.measurement.
+2com.google.firebase.analytics.
+
