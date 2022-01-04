@@ -1,6 +1,9 @@
 #Komplett-TrackerListe
+#Tracker_F 030122: 
+
 #Huawei Mobile Services (HMS) Core
 122com.huawei.updatesdk.
+
 
 #Amazon Advertisement
 471com.amazon.device.ads
@@ -26,7 +29,7 @@
 #Huawei Mobile Services (HMS) Core
 301com.huawei.agconnect.
 8com.huawei.hms.support.api.push.
-144com.huawei.updatesdk.
+143com.huawei.updatesdk.
 
 #Adobe Experience Cloud
 825com.adobe.marketing.mobile
@@ -56,6 +59,7 @@
 #AWS Kinesis
 25com.amazonaws.metrics.
 
+
 #Google Firebase Analytics
 4com.google.firebase.analytics.
 
@@ -68,7 +72,7 @@
 #Huawei Mobile Services (HMS) Core
 37com.huawei.agconnect.
 8com.huawei.hms.support.api.push.
-143com.huawei.updatesdk.
+145com.huawei.updatesdk.
 
 #Dynatrace
 1com.dynatrace.android.app
@@ -82,6 +86,7 @@
 2com.huawei.agconnect.
 8com.huawei.hms.support.api.push.
 145com.huawei.updatesdk.
+
 
 #Google Firebase Analytics
 2com.google.firebase.analytics.
@@ -109,10 +114,16 @@
 8com.huawei.hms.support.api.push.
 144com.huawei.updatesdk.
 
+
 #Huawei Mobile Services (HMS) Core
-168com.huawei.agconnect.
+179com.huawei.agconnect.
 8com.huawei.hms.support.api.push.
-144com.huawei.updatesdk.
+143com.huawei.updatesdk.
+
+°Google Play Install Referrer
+Google AdMob
+Microsoft Visual Studio App Center Analytics
+Microsoft Visual Studio App Center Crashes
 
 #Adjust
 171com.adjust.sdk.
@@ -169,7 +180,7 @@
 1com.google.firebase.firebase_analytics
 
 #Google Cloud Audit Logs
-17com.google.cloud.audit
+17com.google.cloud.audio
 
 #ACRCloud
 45com.acrcloud
@@ -194,6 +205,27 @@
 206com.huawei.agconnect.
 8com.huawei.hms.support.api.push.
 144com.huawei.updatesdk.
+
+#Facebook Analytics
+158com.facebook.appevents
+
+#Facebook Login
+58com.facebook.login
+
+#Facebook Share
+197com.facebook.share
+
+#Google AdMob
+22com.google.ads.
+256com.google.android.gms.ads.
+
+#Google Analytics
+47com.google.android.gms.analytics.
+
+#Huawei Mobile Services (HMS) Core
+173com.huawei.agconnect.
+8com.huawei.hms.support.api.push.
+136com.huawei.updatesdk.
 
 #Amazon Advertisement
 456com.amazon.device.ads
@@ -271,30 +303,21 @@
 47com.google.android.gms.analytics.
 
 #Google CrashLytics
-293com.google.firebase.crash
+326com.google.firebase.crash
 
 #Google Firebase Analytics
-332com.google.android.gms.measurement.
-27com.google.firebase.analytics.
+334com.google.android.gms.measurement.
+31com.google.firebase.analytics.
 1com.google.firebase.firebase_analytics
 
 #Google Tag Manager
 169com.google.android.gms.tagmanager
 
 #Salesforce Marketing Cloud
-204com.salesforce.marketingcloud
+818com.salesforce.marketingcloud
 
 #Snowplow
 132com.snowplowanalytics.
-
-#Google Play Install Referrer
-13com.android.installreferrer
-
-#AWS Kinesis
-11com.amazonaws.metrics.
-
-#Google Cloud Audit Logs
-17com.google.cloud.audit
 
 #Huawei Mobile Services (HMS) Core
 35com.huawei.agconnect.
@@ -306,25 +329,11 @@
 160org.acra.
 
 #Google Firebase Analytics
-5com.google.firebase.analytics
-
-#Google AdMob
-6com.google.android.gms.ads.
-
-#Google Firebase Analytics
-328com.google.android.gms.measurement.
-26com.google.firebase.analytics.
-1com.google.firebase.firebase_analytics
-
-#Google Play Install Referrer
-12com.android.installreferrer
+5com.google.firebase.analytics.
 
 #Huawei Mobile Services (HMS) Core
 19com.huawei.agconnect.
 122com.huawei.updatesdk.
-
-#Adjust
-1com.adjust.sdk.
 
 #Amplitude
 7com.amplitude.
@@ -334,19 +343,21 @@
 
 #Google AdMob
 19com.google.ads.
-23com.google.android.gms.ads.
+30com.google.android.gms.ads.
 
 #Google CrashLytics
 355com.google.firebase.crash
 
 #Google Firebase Analytics
-4com.google.android.gms.measurement.
-1com.google.firebase.analytics.
+9com.google.android.gms.measurement.
+2com.google.firebase.analytics.
 
 #Qualtrics
 163com.qualtrics.digital.
 
-#ACRCloud
+#Google Play Install Referrer
+12com.android.installreferrer
+*ACRCloud
 1com.acrcloud
 
 #Facebook Analytics
@@ -370,9 +381,6 @@
 2com.huawei.agconnect.
 133com.huawei.updatesdk.
 
-#Sentry
-55io.sentry
-
 #Facebook Analytics
 158com.facebook.appevents
 
@@ -385,10 +393,16 @@
 #Google AdMob
 6com.google.android.gms.ads.
 
+#Google Analytics
+44com.google.android.gms.analytics.
+
 #Google Firebase Analytics
-332com.google.android.gms.measurement.
-27com.google.firebase.analytics.
+327com.google.android.gms.measurement.
+26com.google.firebase.analytics.
 1com.google.firebase.firebase_analytics
+
+#Google Tag Manager
+202com.google.android.gms.tagmanager
 
 #Google Play Install Referrer
 12com.android.installreferrer
@@ -397,13 +411,7 @@
 287io.sentry
 
 #Google Firebase Analytics
-1com.google.firebase.analytics
-
-#OpenTelemetry (OpenCensus, OpenTracing)
-71io.opencensus
-
-#Google Firebase Analytics
-2com.google.firebase.analytics.
+1com.google.firebase.analytics.
 
 #Adjust
 157com.adjust.sdk.
