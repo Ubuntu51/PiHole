@@ -1162,3 +1162,220 @@ msh.amazon.co.uk
 
 #OpenBack
 9com.openback
+
+
+
+#Google AdMob
+17com.google.ads.
+
+#Google Firebase Analytics
+306com.google.android.gms.measurement.
+4com.google.firebase.analytics.
+
+#Huawei Mobile Services (HMS) Core
+32com.huawei.hms.support.api.push.
+258com.huawei.updatesdk.
+
+#Google Analytics
+5com.google.android.gms.analytics.
+
+#Adjust
+171com.adjust.sdk.
+
+#Google AdMob
+3com.google.android.gms.ads.
+
+#Microsoft Visual Studio App Center Analytics
+1com.microsoft.appcenter.analytics
+
+#Microsoft Visual Studio App Center Crashes
+1com.microsoft.appcenter.crashes
+
+#Google Play Install Referrer
+34com.android.installreferrer
+
+#ACRA
+136org.acra.
+
+#Google Firebase Analytics
+11com.google.android.gms.measurement.
+2com.google.firebase.analytics.
+
+#AutoNavi / Amap
+762com.amap.api
+
+#Google AdMob
+1com.google.android.gms.ads.
+
+#Google Tag Manager
+65com.google.android.gms.tagmanager
+
+#Google AdMob
+1396com.google.ads.
+785com.google.android.gms.ads.
+
+#Google Analytics
+62com.google.analytics.
+105com.google.android.gms.analytics.
+
+#Google Firebase Analytics
+409com.google.android.gms.measurement.
+9com.google.firebase.analytics
+
+#Google Analytics
+1com.google.android.gms.analytics.
+
+#Google Firebase Analytics
+2com.google.firebase.analytics.
+
+#Google AdMob
+4com.google.ads.
+3com.google.android.ads.
+25com.google.android.gms.ads.
+
+#Google Analytics
+1com.google.analytics.
+
+#Google Firebase Analytics
+14com.google.android.gms.measurement.
+2com.google.firebase.analytics.
+
+#Google AdMob
+1366com.google.ads.
+
+#Google Analytics
+92com.google.android.gms.analytics.
+
+#Google Firebase Analytics
+407com.google.android.gms.measurement.
+8com.google.firebase.analytics.
+
+#Facebook Analytics
+105com.facebook.appevents
+
+#Facebook Login
+93com.facebook.login
+
+#Facebook Places
+61com.facebook.places
+
+#Facebook Share
+281com.facebook.share
+
+#Flurry
+525com.flurry.
+
+#Google AdMob
+6com.google.android.gms.ads.
+
+#Google CrashLytics
+309com.google.firebase.crash
+
+#Google Firebase Analytics
+322com.google.android.gms.measurement.
+26com.google.firebase.analytics.
+1com.google.firebase.firebase_analytics
+
+#Google Cloud Audit Logs
+17com.google.cloud.audit
+
+#Facebook Analytics
+107com.facebook.appevents
+
+#Facebook Login
+56com.facebook.login
+
+#Facebook Share
+197com.facebook.share
+
+#Google AdMob
+29com.google.ads.
+227com.google.android.gms.ads.
+
+#Google Analytics
+47com.google.android.gms.analytics.
+
+#Google Tag Manager
+196com.google.android.gms.tagmanager
+
+#Huawei Mobile Services (HMS) Core
+53com.huawei.hms.support.api.push.
+121com.huawei.updatesdk.
+
+
+#AutoNavi / Amap
+200com.amap.api
+
+#Amazon Advertisement
+456com.amazon.device.ads
+
+#Google AdMob
+34com.google.ads.
+151com.google.android.gms.ads.
+
+#Google CrashLytics
+308com.google.firebase.crash
+
+#Google Firebase Analytics
+1com.google.android.gms.measurement.
+3com.google.firebase.analytics.
+
+#Localytics
+24com.localytics.android
+
+#Google Play Install Referrer
+9com.android.installreferrer
+
+#AWS Kinesis
+18com.amazonaws.metrics.
+
+#AutoNavi / Amap
+760com.amap.api
+
+#Google AdMob
+3com.google.android.gms.ads.
+
+
+#Google Firebase Analytics
+1com.google.android.gms.measurement.
+2com.google.firebase.analytics.
+
+#Google AdMob
+3com.google.android.gms.ads.
+
+#Google Analytics
+5com.google.android.gms.analytics.
+
+#Google Tag Manager
+3com.google.android.gms.tagmanager
+
+#Microsoft Visual Studio App Center Crashes
+10com.microsoft.appcenter.crashes
+
+#Google AdMob
+5com.google.android.gms.ads.
+
+#Google Analytics
+47com.google.android.gms.analytics.
+
+#Google Tag Manager
+196com.google.android.gms.tagmanager
+
+#Huawei Mobile Services (HMS) Core
+53com.huawei.hms.support.api.push.
+122com.huawei.updatesdk.
+
+#Huawei Mobile Services (HMS) Core
+154com.huawei.updatesdk.
+
+#Google Firebase Analytics
+1com.google.firebase.analytics.
+
+#Google AdMob
+3com.google.ads.
+20com.google.android.gms.ads.
+
+#Google Firebase Analytics
+13com.google.android.gms.measurement.
+2com.google.firebase.analytics.
+
