@@ -120,7 +120,7 @@
 8com.huawei.hms.support.api.push.
 143com.huawei.updatesdk.
 
-°Google Play Install Referrer
+#Google Play Install Referrer
 Google AdMob
 Microsoft Visual Studio App Center Analytics
 Microsoft Visual Studio App Center Crashes
@@ -357,7 +357,8 @@ Microsoft Visual Studio App Center Crashes
 
 #Google Play Install Referrer
 12com.android.installreferrer
-*ACRCloud
+
+#ACRCloud
 1com.acrcloud
 
 #Facebook Analytics
