@@ -607,3 +607,16 @@
 #Google Firebase Analytics
 13com.google.android.gms.measurement.
 2com.google.firebase.analytics.
+
+#Google Play Install Referrer
+Bugsnag
+Google Firebase Analytics
+
+#Bugsnag
+406com.bugsnag.
+
+#Google Firebase Analytics
+5com.google.firebase.analytics.
+
+#Google Play Install Referrer
+12com.android.installreferrer
