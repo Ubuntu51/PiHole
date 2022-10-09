@@ -1,4 +1,5 @@
-#Amazon Advertisement
+
+#Amazon Analytics
 470com.amazon.device.ads
 
 #Amazon Analytics (Amazon insights)
@@ -30,7 +31,7 @@
 #Google Firebase Analytics
 31com.google.android.gms.measurement.
 26com.google.firebase.analytics.
-1com.google.firebase.firebase_analytics
+1com.google.firebase.firebase_analytic
 
 #Google Firebase Analytics
 2com.google.firebase.analytics.
@@ -48,7 +49,6 @@
 
 #²?Sentry
 375io.sentry
-
 
 #Google AdMob
 17com.google.ads.
@@ -74,7 +74,6 @@
 
 #myTarget
 540com.my.target.
-
 
 #AppMetrica
 2128com.yandex.metrica.
@@ -157,15 +156,15 @@
 1com.facebook.login
 
 #Google AdMob
-47com.google.ads.
-385com.google.android.gms.ads.
+38com.google.ads.
+565com.google.android.gms.ads.
 1com.google.firebase.firebase_ads.
 
 #Google CrashLytics
-307com.google.firebase.crash
+305com.google.firebase.crash
 
 #Google Firebase Analytics
-354com.google.android.gms.measurement.
+348com.google.android.gms.measurement.
 31com.google.firebase.analytics.
 1com.google.firebase.firebase_analytics
 
@@ -173,7 +172,7 @@
 74com.iab.omid.library
 
 #Inmobi
-655com.inmobi
+679com.inmobi
 
 #°Google Play Install Referrer
 5com.android.installreferrer
@@ -188,21 +187,24 @@
 320com.google.android.gms.measurement.
 16com.google.firebase.analytics.
 
-#Google Firebase Analytics
-7com.google.android.gms.measurement.
-2com.google.firebase.analytics.
-
 #Google AdMob
 1com.google.ads.
 3com.google.android.ads.
 25com.google.android.gms.ads.
 
+#Google Firebase Analytics
+1com.google.android.gms.measurement.
+2com.google.firebase.analytics.
+
+#Google AdMob
+1370com.google.ads.
+
 #Google Analytics
-1com.google.analytics.
+92com.google.android.gms.analytics.
 
 #Google Firebase Analytics
-14com.google.android.gms.measurement.
-2com.google.firebase.analytics.
+404com.google.android.gms.measurement.
+8com.google.firebase.analytics.
 
 #Adjust Unbotify
 95com.unbotify.mobile.sdk.
@@ -216,17 +218,17 @@
 2com.google.firebase.analytics.
 
 #HelpShift
-100com.helpshift
+98com.helpshift
 
 #Unity3d Ads
 38com.unity3d.ads
 479com.unity3d.services
 
 #°Google Play Install Referrer
-12com.android.installreferrer
+11com.android.installreferrer
 
 #²?Sentry
-406io.sentry
+403io.sentry
 
 #Google Analytics
 1com.google.android.gms.analytics.
@@ -293,8 +295,8 @@
 162com.facebook.ads
 
 #Google AdMob
-1184com.google.ads.
-39com.google.android.gms.ads.
+1983com.google.ads.
+54com.google.android.gms.ads.
 
 #Google CrashLytics
 11com.google.firebase.crash
@@ -303,14 +305,15 @@
 14com.google.android.gms.measurement.
 2com.google.firebase.analytics.
 
-#myTarget
-122com.my.target.
-
 #Yandex Ad
-5201com.yandex.mobile.ads
+5805com.yandex.mobile.ads
 
 #°Google Play Install Referrer
 10com.android.installreferrer
+
+
+#Amplitude
+26com.amplitude.
 
 #Bugly
 123com.tencent.bugly.
@@ -321,7 +324,7 @@
 #Google AdMob
 1421com.google.ads.
 1com.google.android.ads.
-383com.google.android.gms.ads.
+386com.google.android.gms.ads.
 
 #Google CrashLytics
 290com.google.firebase.crash
@@ -381,6 +384,7 @@
 #µ?ACRA
 181org.acra.
 
+
 #Google Firebase Analytics
 5com.google.firebase.analytics.
 
@@ -408,8 +412,8 @@
 #°Google Play Install Referrer
 12com.android.installreferrer
 
-#Baidu Location
-122com.baidu.location
+#Google AdMob
+4com.google.android.gms.ads.
 
 #Facebook Ads
 162com.facebook.ads
@@ -440,19 +444,18 @@
 26com.google.firebase.analytics.
 1com.google.firebase.firebase_analytics
 
+
 #Google Firebase Analytics
 1com.google.firebase.analytics.
 
 #Google Firebase Analytics
 2com.google.firebase.analytics.
 
-
 #Google Firebase Analytics
 2com.google.firebase.analytics.
 
-
 #AppLovin (MAX and SparkLabs)
-783com.applovin
+780com.applovin
 
 #Facebook Ads
 162com.facebook.ads
@@ -477,6 +480,16 @@
 #°Google Play Install Referrer
 12com.android.installreferrer
 
+#Google AdMob
+5com.google.android.gms.ads.
+
+#Google CrashLytics
+298com.google.firebase.crash
+
+#Google Firebase Analytics
+335com.google.android.gms.measurement.
+26com.google.firebase.analytics.
+
 #Google Analytics
 4com.google.android.gms.analytics.
 
@@ -500,7 +513,6 @@
 #OneSignal
 517com.onesignal.
 
-
 #Google AdMob
 1com.google.ads.
 20com.google.android.gms.ads.
@@ -508,4 +520,3 @@
 #Google Firebase Analytics
 13com.google.android.gms.measurement.
 2com.google.firebase.analytics.
-
