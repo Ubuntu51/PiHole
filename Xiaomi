@@ -1,5 +1,4 @@
-
-#Amazon Analytics
+#Amazon Advertisement
 470com.amazon.device.ads
 
 #Amazon Analytics (Amazon insights)
@@ -31,7 +30,7 @@
 #Google Firebase Analytics
 31com.google.android.gms.measurement.
 26com.google.firebase.analytics.
-1com.google.firebase.firebase_analytic
+1com.google.firebase.firebase_analytics
 
 #Google Firebase Analytics
 2com.google.firebase.analytics.
@@ -57,23 +56,8 @@
 292com.google.android.gms.measurement.
 4com.google.firebase.analytics.
 
-#Facebook Ads
-162com.facebook.ads
-
-#Google AdMob
-274com.google.ads.
-383com.google.android.gms.ads.
-
-#Google CrashLytics
-287com.google.firebase.crash
-
 #Google Firebase Analytics
-322com.google.android.gms.measurement.
-26com.google.firebase.analytics.
-1com.google.firebase.firebase_analytics
-
-#myTarget
-540com.my.target.
+5com.google.firebase.analytics.
 
 #AppMetrica
 2128com.yandex.metrica.
@@ -112,6 +96,10 @@
 #Google AdMob
 3com.google.android.gms.ads.
 
+#Huawei Mobile Services (HMS) Core
+4com.huawei.agconnect.
+9com.huawei.hms.support.api.push.
+
 #Microsoft Visual Studio App Center Analytics
 1com.microsoft.appcenter.analytics
 
@@ -133,6 +121,10 @@
 
 #Bugsnag
 101com.bugsnag.
+
+#µ?ACRA
+265org.acra.
+
 
 #Branch
 94io.branch.
@@ -203,7 +195,7 @@
 92com.google.android.gms.analytics.
 
 #Google Firebase Analytics
-404com.google.android.gms.measurement.
+405com.google.android.gms.measurement.
 8com.google.firebase.analytics.
 
 #Adjust Unbotify
@@ -218,7 +210,7 @@
 2com.google.firebase.analytics.
 
 #HelpShift
-98com.helpshift
+100com.helpshift
 
 #Unity3d Ads
 38com.unity3d.ads
@@ -228,7 +220,7 @@
 11com.android.installreferrer
 
 #²?Sentry
-403io.sentry
+405io.sentry
 
 #Google Analytics
 1com.google.android.gms.analytics.
@@ -241,14 +233,14 @@
 298com.google.android.gms.ads.
 
 #Google CrashLytics
-308com.google.firebase.crash
+302com.google.firebase.crash
 
 #Google Firebase Analytics
 3com.google.android.gms.measurement.
 3com.google.firebase.analytics.
 
 #°Google Play Install Referrer
-9com.android.installreferrer
+10com.android.installreferrer
 
 #²AWS Kinesis
 15com.amazonaws.metrics.
@@ -311,7 +303,6 @@
 #°Google Play Install Referrer
 10com.android.installreferrer
 
-
 #Amplitude
 26com.amplitude.
 
@@ -324,13 +315,13 @@
 #Google AdMob
 1421com.google.ads.
 1com.google.android.ads.
-386com.google.android.gms.ads.
+385com.google.android.gms.ads.
 
 #Google CrashLytics
-290com.google.firebase.crash
+308com.google.firebase.crash
 
 #Google Firebase Analytics
-322com.google.android.gms.measurement.
+348com.google.android.gms.measurement.
 26com.google.firebase.analytics.
 1com.google.firebase.firebase_analytics
 
@@ -383,10 +374,6 @@
 
 #µ?ACRA
 181org.acra.
-
-
-#Google Firebase Analytics
-5com.google.firebase.analytics.
 
 #Amplitude
 7com.amplitude.
@@ -444,9 +431,14 @@
 26com.google.firebase.analytics.
 1com.google.firebase.firebase_analytics
 
+°Google Play Install Referrer
+Google Firebase Analytics
 
 #Google Firebase Analytics
-1com.google.firebase.analytics.
+5com.google.firebase.analytics.
+
+#°Google Play Install Referrer
+13com.android.installreferrer
 
 #Google Firebase Analytics
 2com.google.firebase.analytics.
@@ -480,15 +472,8 @@
 #°Google Play Install Referrer
 12com.android.installreferrer
 
-#Google AdMob
-5com.google.android.gms.ads.
-
 #Google CrashLytics
-298com.google.firebase.crash
-
-#Google Firebase Analytics
-335com.google.android.gms.measurement.
-26com.google.firebase.analytics.
+299com.google.firebase.crash
 
 #Google Analytics
 4com.google.android.gms.analytics.
