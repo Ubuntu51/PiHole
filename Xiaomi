@@ -302,7 +302,6 @@
 #Google Tag Manager
 192com.google.android.gms.tagmanager
 
-
 #Amazon Advertisement
 191com.amazon.device.ads
 
@@ -414,7 +413,6 @@
 #Google Firebase Analytics
 5com.google.firebase.analytics.
 
-
 #Amplitude
 7com.amplitude.
 
@@ -471,15 +469,15 @@
 26com.google.firebase.analytics.
 1com.google.firebase.firebase_analytics
 
-°Google Play Install Referrer
+#Google Play Install Referrer
 Google Firebase Analytics
 
 #Google Firebase Analytics
 5com.google.firebase.analytics.
 
 #°Google Play Install Referrer
-13com.android.installreferrerß
-°Google Play Install Referrer
+13com.android.installreferrer
+Google Play Install Referrer
 Google Firebase Analytics
 
 #Google Firebase Analytics
@@ -519,7 +517,6 @@ Google Firebase Analytics
 
 #Google CrashLytics
 299com.google.firebase.crash
-
 
 #Google Analytics
 4com.google.android.gms.analytics
